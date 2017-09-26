@@ -1,0 +1,11 @@
+html, body
+{
+    background-color: #fff;
+    color: #636b6f;
+    font-family: 'Raleway', sans-serif;
+    height: 95vh;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+}

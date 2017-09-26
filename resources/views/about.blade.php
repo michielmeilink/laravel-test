@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>
-            Testing Laravel
+            About
         </title>
 
         {{-- CSS --}}
@@ -15,7 +15,7 @@
 
     <body>
         <h1>
-            Hallo
+            About
         </h1>
     </body>
 </html>
